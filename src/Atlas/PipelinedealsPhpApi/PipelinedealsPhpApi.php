@@ -11,6 +11,8 @@
         Updated by Atlas Software Group <pha@atlassoftwaregroup.com>
     */
 
+namespace Atlas\PipelinedealsPhpApi;
+
 class PipelinedealsPhpApi
 {
     private $api_key;
